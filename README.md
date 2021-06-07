@@ -6,7 +6,7 @@ Maker Media GmbH
 
 # Arduino als Lokführer, Make 3/21 S. 52
 
-![Picture](https://github.com/MakeMagazinDE/MaerklinArduino/blob/master/maerklin.JPG)
+![Picture](https://github.com/MakeMagazinDE/MaerklinArduino/blob/main/maerklin.JPG)
 
 Enthält neben dem im Artikel beschriebenen Verfahren zwei weitere Ansätze zur Erzeugung des Märklin-Motorola-Datenformats.
 
