@@ -4,10 +4,10 @@ Maker Media GmbH
 
 ***
 
-# Arduino als Lokführer
+# Arduino als Lokführer, Make 3/21 S. 52
 
-Enthält drei Ansätze zur Erzeugung des Märklin-Motorola-Datenformats:
+Enthält neben dem im Artikel beschriebenen Verfahren zwei weitere Ansätze zur Erzeugung des Märklin-Motorola-Datenformats.
 
-* mmtestmspi.ino - Erzeugung durch USART im MSPI-Modus
+* mmtestmspi.ino - Erzeugung durch USART im MSPI-Modus (wie beschrieben)
 * mmtestuart.ino - Erzeugung durch UART
-* mmtestmspiirq.ino - Erzeugung durch USART im MSPI-Modus mit Interrupt-Steuerung
+* mmtestmspiirq.ino - Erzeugung durch USART im MSPI-Modus über Interrupt
