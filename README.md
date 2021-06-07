@@ -14,4 +14,4 @@ Enthält neben dem im Artikel beschriebenen Verfahren zwei weitere Ansätze zur 
 * mmtestuart.ino - Erzeugung durch UART
 * mmtestmspiirq.ino - Erzeugung durch USART im MSPI-Modus über Interrupt
 
-Ebenfalls in diesem Repository enthalten sind die im Artikel abgedruckten Bilder und das mit Fritzing erstellte Verdrahtungsplan.
+Ebenfalls in diesem Repository enthalten sind die im Artikel abgedruckten Zeichnungen sowie der mit Fritzing erstellte Verdrahtungsplan.
